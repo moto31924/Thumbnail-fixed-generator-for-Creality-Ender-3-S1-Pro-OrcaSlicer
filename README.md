@@ -31,6 +31,6 @@ How to install?
 
 *Tested on OrcaSlicer 2.3.1
 
-*Be sure you have latest firmware from creality https://www.crealitycloud.com/downloads/firmware/ender-series/ender-3-s1-pro - Tested with Ender-3 S1_Pro_HWv24S1_301_SWV2.0.8.28F4_F401_FDM_LASER
+*Be sure you have latest firmware from creality https://www.crealitycloud.com/downloads/firmware/ender-series/ender-3-s1-pro - Tested with Ender-3 S1_Pro_HWv24S1_301_SWV2.0.8.28F4_F401_FDM_LASER  - F4 motherboard
 
 USE AT YOUR OWN RISK
