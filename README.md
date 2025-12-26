@@ -6,7 +6,7 @@ Origin script have set up image size 200x200 but this size is not working for En
 
 How to install?
 
-1)Download Script
+1)Download Script from releases https://github.com/moto31924/Thumbnail-fixed-generator-for-Creality-Ender-3-S1-Pro-OrcaSlicer/releases/tag/Thumbnail
 
 2)Download and install python
 
