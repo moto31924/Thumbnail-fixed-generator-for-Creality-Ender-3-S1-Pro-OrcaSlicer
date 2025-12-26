@@ -14,24 +14,22 @@ How to install?
 
 4)Put script into C:\Users\[your_name]\AppData\Roaming\OrcaSlicer
 
-5)Set up post processing in OcuraSlicer and put path to python.exe and thumbnailgen.py
+5)Set up post processing in OrcaSlicer and put path to python.exe and thumbnailgen.py
 
 <img width="404" height="213" alt="image" src="https://github.com/user-attachments/assets/10e97ca3-935e-41a4-8b13-46c862fd9ebd" />
 
-6)Set printer settings with these paramets:
+6)Set printer settings with these parameters:
 
 <img width="679" height="173" alt="image" src="https://github.com/user-attachments/assets/a0d1ca91-317b-41dc-95d3-ae91b91c2029" />
-
-Its important to set up this paramets correctly as shown picture:
 
 *Druh G-kódu/G-CODE - Marlin 2 - It works only if you have Marlin 2
 
 *Náhledy G-kódu/Thumbnail G-code - 300x300/JPG
 
-7)Save everything and you can start slicing, thumbnail will be in supported g-code format and will be shown in printers LCD screen with printing time and fillament use.
+7)Save everything and you can start slicing, thumbnail will be in supported G-code format and will be shown in printers LCD screen with printing time and fillament use and number of layers. Its automatically when you export G-code.
 
 
-*Tested on OcuraSlicer 2.3.1
+*Tested on OrcaSlicer 2.3.1
 
 *Be sure you have latest firmware from creality https://www.crealitycloud.com/downloads/firmware/ender-series/ender-3-s1-pro - Tested with Ender-3 S1_Pro_HWv24S1_301_SWV2.0.8.28F4_F401_FDM_LASER
 
