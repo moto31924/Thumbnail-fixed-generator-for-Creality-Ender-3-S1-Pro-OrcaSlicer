@@ -15,9 +15,11 @@ How to install?
 4)Put script into C:\Users\[your_name]\AppData\Roaming\OrcaSlicer
 
 5)Set up post processing in OcuraSlicer and put path to python.exe and thumbnailgen.py
+
 <img width="404" height="213" alt="image" src="https://github.com/user-attachments/assets/10e97ca3-935e-41a4-8b13-46c862fd9ebd" />
 
 6)Set printer settings with these paramets:
+
 <img width="679" height="173" alt="image" src="https://github.com/user-attachments/assets/a0d1ca91-317b-41dc-95d3-ae91b91c2029" />
 
 Its important to set up this paramets correctly as shown picture:
